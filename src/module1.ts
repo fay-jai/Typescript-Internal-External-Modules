@@ -1,4 +1,4 @@
-export function sayHello(name: string) {
+export function sayHello(name: string): string {
 	return `Hello, ${name}`;
 }
 
