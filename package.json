@@ -3,11 +3,9 @@
     "version": "0.0.1",
     "scripts": {
         "tsc": "tsc",
-        "webpack": "webpack",
-        "build": "npm run tsc && npm run webpack"
+        "build": "npm run tsc"
     },
     "devDependencies": {
-        "typescript": "^1.8.9",
-        "webpack": "^1.12.14"
+        "typescript": "^1.8.9"
     }
 }
